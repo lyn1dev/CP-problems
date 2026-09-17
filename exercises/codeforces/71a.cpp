@@ -9,5 +9,7 @@ int main() {
             cout << a[0] << a.length()-2 << a[a.length()-1];
             cout << "\n"; 
         }
-    }
+        else { cout << a << "\n"; }
+        
+        }
 }
